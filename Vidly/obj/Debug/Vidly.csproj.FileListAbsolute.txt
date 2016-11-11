@@ -191,3 +191,4 @@ C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.x
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
