@@ -91,7 +91,6 @@ C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\De
 C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToNewsletter.resources
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
