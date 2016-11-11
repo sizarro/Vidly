@@ -91,6 +91,18 @@ C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\De
 C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\cezary.banasik\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToNewsletter.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipType.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovies.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\ApplicationInsights.config
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\roslyn\csc.exe
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -108,6 +120,7 @@ C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Vidly.dll.config
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Vidly.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Vidly.pdb
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\AutoMapper.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\EntityFramework.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
@@ -133,7 +146,10 @@ C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.d
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Newtonsoft.Json.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Owin.dll
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Mvc.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Optimization.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Razor.dll
@@ -141,12 +157,16 @@ C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dl
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.WebPages.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\AutoMapper.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.AI.Web.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Helpers.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Mvc.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Optimization.xml
@@ -170,23 +190,5 @@ C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToNewsletter.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipType.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovies.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.pdb
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.dll
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.xml
-C:\Users\cezary.banasik\GitHub\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
